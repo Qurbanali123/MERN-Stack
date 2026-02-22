@@ -434,7 +434,7 @@ export default function Home() {
     {/* Experience Details */}
     <div className="flex-1">
       <h2 className="text-3xl sm:text-4xl font-bold text-white mb-6">
-        MERN Stack & WordPress Developer at Horizon Tech Services
+        MERN Stack & WordPress Developer (Intern) at Horizon Tech Services
       </h2>
       <ul className="space-y-4 text-base sm:text-lg">
         {[

@@ -35,8 +35,8 @@ export default function Home() {
 
   const services = [
     {
-      title: "Frontend Developer",
-      description: "Building robust, scalable, and secure full-stack web applications using MYSQL, Express, React, and Node.js.",
+      title: "MERN Stack Development",
+      description: "Building robust, scalable, and secure full-stack web applications using MongoDB, Express, React, and Node.js.",
       icon: <Database className="w-6 h-6" />,
     },
     {
@@ -129,8 +129,8 @@ export default function Home() {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="text-slate-400 text-lg md:text-xl max-w-2xl leading-relaxed mb-12"
           >
-            I&apos;m Qurban Ali, a Software Engineer specializing in Frontend Development and WordPress
-             development, passionate about creating high-performance and scalable digital solutions.
+            I&apos;m Qurban Ali, a Software Engineer specializing in MERN Stack Development, Blockchain Development and WordPress
+             Development, passionate about creating high-performance and scalable digital solutions.
               I leverage cutting-edge technologies to deliver secure, responsive, and impactful web experiences
                that meet modern business needs.
           </motion.p>
@@ -221,7 +221,7 @@ export default function Home() {
       and crafting <span className="text-cyan-400">modern, intuitive digital experiences</span> that users love.
     </p>
     <p>
-      Experienced in <span className="text-cyan-400">Frontend and WordPress Development</span>, 
+      Experienced in <span className="text-cyan-400">MERN stack and WordPress Development</span>, 
       building scalable, maintainable, and high-performance applications.
     </p>
     <p>
@@ -397,7 +397,7 @@ export default function Home() {
   <div className="max-w-4xl mx-auto flex flex-col md:flex-row gap-12 items-center justify-between">
     <div className="flex-1">
       <h2 className="text-3xl font-bold text-white mb-6">
-        Worked at Devocean Tech (Aug 2024 – Aug 2025)
+        Worked at Hex Softwares (Intern) (Aug 2024 – Aug 2025)
       </h2>
       <ul className="space-y-4">
         {[
@@ -422,7 +422,7 @@ export default function Home() {
         Web Development 
       </h3>
       <p className="font-bold opacity-80">
-        Devocean Tech — August 2024 to August 2025
+        Hex Softwares — August 2024 to August 2025
       </p>
     </div>
   </div>
@@ -434,16 +434,18 @@ export default function Home() {
     {/* Experience Details */}
     <div className="flex-1">
       <h2 className="text-3xl sm:text-4xl font-bold text-white mb-6">
-        Frontend & WordPress Developer at Horizon Tech Services
+        MERN Stack & WordPress Developer at Horizon Tech Services
       </h2>
       <ul className="space-y-4 text-base sm:text-lg">
         {[
-          "Developed responsive and interactive user interfaces using React.js, HTML5, CSS3, and JavaScript",
-          "Converted Figma designs into functional web pages and built reusable UI components",
-          "Customized WordPress themes and integrated plugins like WooCommerce and Elementor",
-          "Created landing pages and corporate websites with optimized performance and SEO",
-          "Integrated REST APIs and ensured smooth data handling",
-          "Collaborated with the team using Git and GitHub for version control"
+            "Developed full-stack web applications using MongoDB, Express.js, React.js, and Node.js (MERN Stack)",
+  "Built responsive and dynamic user interfaces using React.js, HTML5, CSS3, JavaScript, and modern UI frameworks",
+  "Converted Figma designs into functional React components and reusable UI modules",
+  "Designed and integrated RESTful APIs using Node.js and Express.js with efficient data handling",
+  "Managed database operations, schemas, and CRUD functionality using MongoDB",
+  "Customized WordPress themes and integrated plugins including WooCommerce and Elementor",
+  "Created SEO-optimized landing pages, e-commerce stores, and corporate websites",
+  "Collaborated with teams using Git and GitHub for version control and project management"
         ].map(item => (
           <li key={item} className="flex items-start sm:items-center gap-3 text-slate-400">
             <CheckCircle2 className="w-5 h-5 text-cyan-500 shrink-0 mt-1 sm:mt-0" />
@@ -457,7 +459,7 @@ export default function Home() {
     <div className="w-full md:w-1/3 p-6 sm:p-8 rounded-3xl bg-cyan-500 text-black flex-shrink-0">
       <Briefcase className="w-12 h-12 mb-4 sm:mb-6" />
       <h3 className="text-xl sm:text-2xl font-black mb-2 leading-tight">
-        Frontend & WordPress Developer 
+        MERN Stack & WordPress Developer 
       </h3>
       <p className="font-bold opacity-80 text-sm sm:text-base">
         Horizon Tech Services Pvt. Ltd., Islamabad NUST — Sep 2025 to Feb 2026
